@@ -1,2 +1,3 @@
 # ai-tools
-A Growing Database of AI Tools
+A Growing <a href="https://frankbueltge.de/ai-tools/" Database of AI Tools</a>
+
